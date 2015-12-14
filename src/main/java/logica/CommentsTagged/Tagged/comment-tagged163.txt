@@ -1,0 +1,1 @@
+supervisor_NN propnam_NN prefer_VBP research_NN area_NN region_NN econom_NN integr_NN prefernec_JJ tent_NN examin_NN schedul_NN semest_NN 1_CD 2009_CD 10_CD abcdefghijklmnopqrstuvwxyz_NN qwertyuiopasdfghjklzxcvbnm_NN mnbvcxzlkjhgfdsapoiuytrewq_NN pa_NN dol_NN 2_CD cartographi_NNS select_JJ topic_NN geographi_NNS china_NN add_VBP dea_NN dea_NN dea_NN

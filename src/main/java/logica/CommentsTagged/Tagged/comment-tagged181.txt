@@ -1,0 +1,1 @@
+laundri_NN pack_NN sleep_NN ahhhh_NN england_NN tomorrow_NN repli_NNS text_NN messag_NN phone_NN call_NN iphon_NN dumb_JJ decid_JJ touch_NN screen_NN work_NN back_RB propnam_JJ thing_NN think_VB throw_VB cloth_NN forc_NN laundri_NN indian_JJ address_NN 109_CD blinco_NN avon_NN belmont_NN field_NN warehous_JJ curv_NN virginia_NN usa_NN

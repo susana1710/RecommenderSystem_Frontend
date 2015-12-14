@@ -1,0 +1,1 @@
+'10', 'dai', 'left', 'basic', 'train', 'tgif', 'miss', 'princess', 'dearli', 'dentist', 'med', 'percoset', 'hell', 'drug', 'feel', 'chicago', 'winter', 'dunno', 'make', 'back', 'texa', 'fingertip', 'prepar', 'mind', 'long', 'drive', 'woman', 'man'', 'rib', 'feet', 'walk', 'head', 'superior', 'side', 'equal', 'arm', 'protect', 'heart', 'love'

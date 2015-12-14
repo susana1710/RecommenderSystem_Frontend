@@ -1,0 +1,1 @@
+internet_NN home_NN dog_NN eat_VBP expens_NNS jacket_NN work_NN car_NN encas_VBZ 1_CD 2_CD inch_NN ic_FW like_IN danc_JJ skirt_NN

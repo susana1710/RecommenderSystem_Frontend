@@ -1,0 +1,1 @@
+'permit', 'flu', 'quarantin', 'school', 'comput', 'stuck', 'bed', 'beat', 'kingdom', 'heart', 'base', 'game', 'rel', 'japan', 'april', 'flu', 'free', 'wanna', 'bore', 'lose', 'fricken', 'voic', 'friend', 'drip', 'rubi', 'drip', 'preciou', 'rubi', 'brutal', 'legend', 'found', 'wallet', 'lose', 'frick', 'voic', 'complet', 'disappoint', 'propnam', 'movi'
